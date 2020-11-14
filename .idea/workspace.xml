@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de90fc60-c0e9-453e-8ca3-199adda3581e" name="Default Changelist" comment="提交注释" />
+    <list default="true" id="de90fc60-c0e9-453e-8ca3-199adda3581e" name="Default Changelist" comment="提交注释">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605346124866</updated>
-      <workItem from="1605346126392" duration="334000" />
+      <workItem from="1605346126392" duration="721000" />
     </task>
     <task id="LOCAL-00001" summary="提交注释">
       <created>1605346299361</created>
@@ -85,7 +87,21 @@
       <option name="project" value="LOCAL" />
       <updated>1605346425979</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="提交注释">
+      <created>1605346539885</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605346539885</updated>
+    </task>
+    <task id="LOCAL-00005" summary="提交注释">
+      <created>1605346772109</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605346772109</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -123,6 +139,16 @@
                   <option value="master" />
                 </option>
               </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feature_nihao" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="feature_testMerge" />
+                </option>
+              </RecentGroup>
             </list>
           </value>
         </entry>
@@ -132,5 +158,19 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="提交注释" />
     <option name="LAST_COMMIT_MESSAGE" value="提交注释" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="140" y="75" key="MergeDialog" timestamp="1605346644522">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="140" y="75" key="MergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1605346644522" />
+    <state x="333" y="414" key="MultipleFileMergeDialog" timestamp="1605346644559">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="333" y="414" key="MultipleFileMergeDialog/0.0.1440.900@0.0.1440.900" timestamp="1605346644559" />
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2" timestamp="1605346720804">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="190" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1605346720804" />
   </component>
 </project>
